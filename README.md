@@ -8,28 +8,28 @@
 ---
 
 ### 🚀 Professional Impact & Engineering Highlights
-*   **Backend Specialist:** Focused on building scalable, high-performance systems with a focus on "invisible complexity" and clean architecture[cite: 1].
-*   **Performance Excellence:** Recognized for consistent high-quality code delivery and technical contributions in corporate environments[cite: 1].
-*   **System Architecture:** Architected and implemented the **Patient Appointment Management System (PAMS)**, a full-stack application optimizing complex scheduling logic and relational database management[cite: 1].
-*   **Enterprise Experience:** Successfully delivered robust backend solutions within the insurance domain, focusing on high availability and system resiliency[cite: 1].
+*   **Backend Specialist:** Focused on building scalable, high-performance systems with a focus on "invisible complexity" and clean architecture .
+*   **Performance Excellence:** Recognized for consistent high-quality code delivery and technical contributions in corporate environments .
+*   **System Architecture:** Architected and implemented the **Patient Appointment Management System (PAMS)**, a full-stack application optimizing complex scheduling logic and relational database management .
+*   **Enterprise Experience:** Successfully delivered robust backend solutions within the insurance domain, focusing on high availability and system resiliency .
 
 ---
 
 ### 🛠️ Technical Arsenal & Work
-- 🔭 I’m currently working on **[Patient Appointment Management System (PAMS)](https://github.com/kartikey-1112/PAMS-Patient-appointment-management-system-)**[cite: 1]
-- 🌱 I’m currently learning **AI integration within microservices and cloud-native architectures**[cite: 1]
-- 👯 I’m looking to collaborate on **Open-source Java and Spring Boot backend projects**[cite: 1]
-- 🤝 I’m looking for help with **Advanced Cloud Infrastructure and GCP certifications**[cite: 1]
-- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, Microservices, and Agile**[cite: 1]
-- 📫 How to reach me: **km030255@gmail.com**[cite: 1]
-- 📄 Know about my experiences: **[My LinkedIn Profile](https://www.linkedin.com/in/kartikey-mishra11/)**[cite: 1]
+- 🔭 I’m currently working on **[Patient Appointment Management System (PAMS)](https://github.com/kartikey-1112/PAMS-Patient-appointment-management-system-)** 
+- 🌱 I’m currently learning **AI integration within microservices and cloud-native architectures** 
+- 👯 I’m looking to collaborate on **Open-source Java and Spring Boot backend projects** 
+- 🤝 I’m looking for help with **Advanced Cloud Infrastructure and GCP certifications** 
+- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, Microservices, and Agile** 
+- 📫 How to reach me: **km030255@gmail.com** 
+- 📄 Know about my experiences: **[My LinkedIn Profile](https://www.linkedin.com/in/kartikey-mishra11/)** 
 
 ---
 
 ### 🎨 The "Engineering Meets Art" Philosophy
-*   **Visual Storyteller:** I am passionate about **cinematic and retro photography**[cite: 1]. I find that the patience required for 35mm film photography mirrors the focus and meticulous nature needed for deep-level debugging[cite: 1].
-*   **Detail-Oriented Collector:** My collection of **50+ unique figurines** (including rare pieces like the Pablo Panda) reflects my commitment to consistency and the "small details" that make a big difference in software[cite: 1].
-*   **Fun Fact:** I believe a perfect backend is like a masterpiece film—if it’s working perfectly, the user shouldn't even notice the mechanics behind it[cite: 1].
+*   **Visual Storyteller:** I am passionate about **cinematic and retro photography** . I find that the patience required for 35mm film photography mirrors the focus and meticulous nature needed for deep-level debugging .
+*   **Detail-Oriented Collector:** My collection of **50+ unique figurines** (including rare pieces like the Pablo Panda) reflects my commitment to consistency and the "small details" that make a big difference in software .
+*   **Fun Fact:** I believe a perfect backend is like a masterpiece film—if it’s working perfectly, the user shouldn't even notice the mechanics behind it .
 
 ---
 
