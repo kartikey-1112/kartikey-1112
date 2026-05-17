@@ -46,12 +46,3 @@
 
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey-1112&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<div align="center">
-  <sub>Built with precision by Kartikey Mishra. &copy;</sub>
-</div>
-
